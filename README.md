@@ -2,7 +2,7 @@
 A template for a NodeJS app with MongoDB using Redis powered by Vagrant and Puppet using Upstart.
 
 ### Overview
-I created this template as a starting point for the redesign of my [Write Often](writeoften.com) app. Using this template I am creating a NodeJS powered API of Write Often. There are number possibilites of using this template for more purposes. 
+I created this template as a starting point for the redesign of my [Write Often](https://writeoften.com) app. Using this template I am creating a NodeJS powered API of Write Often. There are number possibilites of using this template for more purposes. 
 
 I am using the following technologies in this template:
 * **VirtualBox**: Powers the Vagrant VM.
