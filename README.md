@@ -26,6 +26,7 @@ Download and install the following:
 
 1. Clone this repo 
 2. Open up `Terminal` and navigate to the home of this repo
-3. Type in `$ vagrant up`
-4. Visit your app in the browser at `http://local.myawesomeapp.com`
+3. Type in `$ vagrant plugin install vagrant-hostsupdater`
+5. Type in `$ vagrant up`
+6. Visit your app in the browser at `http://local.myawesomeapp.com`
 
