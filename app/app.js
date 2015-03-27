@@ -16,9 +16,9 @@ app.get('/', function(request, response) {
 
 
 // Create an HTTP service.
-var httpServer = http.createServer(app).listen(3000);
+var httpServer = http.createServer(app).listen(80);
 // Create an HTTPS service identical to the HTTP service.
-// var httpsServer = https.createServer(options, app).listen(3001);
+// var httpsServer = https.createServer(options, app).listen(443);
 
 httpServer.on('listening', function() {
    console.log("Sweet! All up and running. Listening HTTP requests on 3000"); 
