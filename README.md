@@ -17,8 +17,10 @@ Read below to find out what is required and how to get started.
 
 ### Requirements
 
+Download and install the following:
+
 1. VirtualBox: https://www.virtualbox.org/wiki/Downloads
-2. Vagrant: 
+2. Vagrant: http://www.vagrantup.com/downloads.html
 
 ### Usage
 
