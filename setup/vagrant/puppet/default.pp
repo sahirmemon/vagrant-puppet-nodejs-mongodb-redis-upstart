@@ -108,7 +108,7 @@ class init {
         require => Class["Nodejs"],
     }
 
-    service { 'app':
+    service { 'app_install':
         ensure => running,
         provider => 'upstart',
         require => File['/etc/init/app_install.conf'],
